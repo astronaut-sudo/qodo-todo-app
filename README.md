@@ -64,5 +64,7 @@ Please create a usable To Do list app for me. Here are the requirements:
 After this, give me instructions to run the app locally and in a production environment!
 ```
 
-Screenshots:
+
+**Screenshots:**
+
 All screenshots are under the screenshots/ folder!
