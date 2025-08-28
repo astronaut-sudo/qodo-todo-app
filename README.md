@@ -7,6 +7,7 @@
 - Bonus: Password hashing, user-friendly error messages, and persistent session for logged-in user
 
 **Get Started:**
+
 BACKEND:
 - Open a terminal and cd into the repo
 - Navigate to backend directory using:
